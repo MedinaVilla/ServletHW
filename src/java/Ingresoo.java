@@ -20,7 +20,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- *
+ * Servlet en donde conecta a la base de datos y verifica si existe el registro
  * @author Alumno
  */
 @WebServlet(urlPatterns = {"/Ingresoo"})

@@ -13,8 +13,8 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- *
- * @author net_m
+ * Servlet que obtiene el parametro del nombre y lo despliega
+ * @author Medina Villalpando
  */
 @WebServlet(urlPatterns = {"/servletHW"})
 public class servletHW extends HttpServlet {

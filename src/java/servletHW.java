@@ -13,8 +13,10 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * Servlet que obtiene el parametro del nombre y lo despliega
- * @author Medina Villalpando
+ * Servlet que permite obtener el nombre del usuario y desplegarlo
+ * @author Medina Villalpando Josue de Jesus 
+ * @version 1.0
+ * @since 27/08/17
  */
 @WebServlet(urlPatterns = {"/servletHW"})
 public class servletHW extends HttpServlet {
